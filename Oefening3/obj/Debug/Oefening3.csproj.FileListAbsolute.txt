@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\bin\Debug\Oefening3.exe.config
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\bin\Debug\Oefening3.exe
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\bin\Debug\Oefening3.pdb
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\obj\Debug\Oefening3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\obj\Debug\Oefening3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\obj\Debug\Oefening3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\obj\Debug\Oefening3.exe
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening3\obj\Debug\Oefening3.pdb
