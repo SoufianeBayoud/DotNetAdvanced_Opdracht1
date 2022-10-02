@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\bin\Debug\net6.0-windows\Oefening5.exe
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\bin\Debug\net6.0-windows\Oefening5.deps.json
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\bin\Debug\net6.0-windows\Oefening5.runtimeconfig.json
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\bin\Debug\net6.0-windows\Oefening5.dll
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\bin\Debug\net6.0-windows\Oefening5.pdb
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.Form1.resources
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.dll
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\refint\Oefening5.dll
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.pdb
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\Oefening5.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\CelsiusToFahrenheit\obj\Debug\net6.0-windows\ref\Oefening5.dll
