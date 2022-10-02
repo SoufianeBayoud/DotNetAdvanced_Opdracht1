@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.Form1.resources
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\bin\Debug\net6.0-windows\Oefening4.exe
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\bin\Debug\net6.0-windows\Oefening4.deps.json
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\bin\Debug\net6.0-windows\Oefening4.runtimeconfig.json
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\bin\Debug\net6.0-windows\Oefening4.dll
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\bin\Debug\net6.0-windows\Oefening4.pdb
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.dll
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\refint\Oefening4.dll
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.pdb
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\Oefening4.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DotNetAdvanced_Opdracht1\Oefening4\obj\Debug\net6.0-windows\ref\Oefening4.dll
